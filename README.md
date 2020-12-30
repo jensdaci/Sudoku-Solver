@@ -1,7 +1,7 @@
 # Sudoku-Solver
 Sudoku Solver algorithm written in Python. 
 
-The following is one sudoku puzzle (Hard Difficulty) from the Daily Telegraph: 
+The following is one sudoku puzzle (Hard Difficulty) from the Daily Telegraph: <br />
 ![](images/daily_telegraph_sudoku.PNG)
 
 The original puzzle regenerated using Python: <br />
