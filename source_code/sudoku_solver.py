@@ -124,3 +124,6 @@ print("Writing solution into a file...")
 writeSolution(puzzle)
 print("Solution written successfully! \n")
 
+
+
+
